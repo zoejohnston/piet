@@ -5,7 +5,7 @@ gem install chunky_png
 on the command line. You will need to do this before using the interpreter or the printer. You can find information 
 about the library here: https://rubygems.org/gems/chunky_png
 
-
+# Piet Interpreter
 
 The file piet.rb contains my Piet interpreter. To run the interpreter, enter
 
@@ -13,7 +13,7 @@ ruby piet.rb image.png
 
 on the command line. Note that image.png must be a PNG file. I've included some test files of my own making.
 
-
+# Piet Printer Printer
 
 The file printer.rb creates a PNG which, when run as Piet source code, prints a given input. Running
 
